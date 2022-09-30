@@ -15,10 +15,9 @@ Hey there!
 
 - 💬 Always ready to learn!
 - 📫 How to reach me: sandipkushwaha2437@gmail.com or [![LinkedIn: Sandip Kushwaha](https://img.shields.io/badge/-Sandip Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-kk/)](https://www.linkedin.com/in/sandip-kk/)
-
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I spend almost 2 hours in Gym everyday. 🎶
+- ⚡ Fun fact: I spend almost 2 hours in Gym everyday. 
 
 ​
 <!-- 20
@@ -33,7 +32,7 @@ Hey there!
 -->
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sandipkushwaha20&theme=github&count_private=true)
 
-###Earned Badges
+### Earned Badges
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/30%20Days%20of%20Google%20Cloud%20%28Profile%29_j6UhPYG%20%281%29_2icCnpP.png" width="150" height="100" />
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'>
 
