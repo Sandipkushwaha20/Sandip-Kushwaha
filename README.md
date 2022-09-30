@@ -14,7 +14,7 @@ Hey there!
 <!-- - 👯 I’m looking to collaborate on Competitive Coding [My Resume](https://arpitgupta.vercel.app/Arpit-Resume.pdf) -->
 
 - 💬 Always ready to learn!
-- 📫 How to reach me: sandipkushwaha2437@gmail.com or [![LinkedIn: Sandip Kushwaha](https://img.shields.io/badge/-Sandip Kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-kk/)](https://www.linkedin.com/in/sandip-kk/)
+- 📫 How to reach me: adityawavnew@gmail.com or [![LinkedIn: Aditya Sharma](https://img.shields.io/badge/-AdityaSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adi-wav/)](https://www.linkedin.com/in/adi-wav/)
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I spend almost 2 hours in Gym everyday. 
