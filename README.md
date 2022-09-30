@@ -1,5 +1,5 @@
 # README.md
-<img src="https://github-hero-readme.vercel.app/api?username=Sandipkushwaha20&linkedin=sandip-kk&twitter=inin&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=Sandipkushwaha20&linkedin=sandip-kk&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
 
 </h1>
 
