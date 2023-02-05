@@ -7,7 +7,7 @@
 
 Hey there!
 
-- 🎓 I am pursuing B.Tech in Bio Technology from Motilala Nehru National Institute of Technology,Allahabad 
+- 🎓 I am pursuing B.Tech in Bio Technology from Motilal Nehru National Institute of Technology,Allahabad 
 
 - 🌱 I’m currently learning `Data Structures` and `Development` 
 
