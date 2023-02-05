@@ -17,7 +17,7 @@ Hey there!
 - 📫 How to reach me: sandipkushwaha2437@gmail.com or [![LinkedIn:Sandip Kushwaha](https://img.shields.io/badge/-SandipKushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-kk/)](https://www.linkedin.com/in/sandip-kk/)
 - 😄 Pronouns: he/him
 
-- ⚡ Fun fact: I spend almost 2 hours in Gym everyday. 
+- ⚡ Fun fact: I spend almost 1 hours in Gym everyday. 
 
 ​
 <!-- 20
