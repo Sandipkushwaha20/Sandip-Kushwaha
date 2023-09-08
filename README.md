@@ -1,5 +1,5 @@
 # README.md
-<img src="https://github-hero-readme.vercel.app/api?username=Sandipkushwaha20&linkedin=sandip-kk&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
+<img src="https://github-hero-readme.vercel.app/api?username=Sandipkushwaha20&linkedin=sandip-k-k&description=Web%20Developer%20|%20Competitive%20%20Programmer" width="100%">
 
 </h1>
 
@@ -14,7 +14,7 @@ Hey there!
 <!-- - 👯 I’m looking to collaborate on Competitive Coding [My Resume](https://arpitgupta.vercel.app/Arpit-Resume.pdf) -->
 
 - 💬 Always ready to learn!
-- 📫 How to reach me: sandipkushwaha2437@gmail.com or [![LinkedIn:Sandip Kushwaha](https://img.shields.io/badge/-SandipKushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-kk/)](https://www.linkedin.com/in/sandip-kk/)
+- 📫 How to reach me: sandipkushwaha2437@gmail.com or [![LinkedIn:Sandip Kushwaha](https://img.shields.io/badge/-SandipKushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-k-k/)](https://www.linkedin.com/in/sandip-k-k/)
 - 😄 Pronouns: he/him
 
 - ⚡ Fun fact: I spend almost 1 hours in Gym everyday. 
@@ -40,7 +40,7 @@ Hey there!
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sandipkushwaha20&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandip-kk" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jlZ4SVlucRrhv2xupaf_vCkV1FQ8gClPmt_IHOpz_-CbmxtMas7gWf5u0e_03MxRu4o&usqp=CAU" alt="arpit-" height="35" width="35" /></a>
+<a href="https://linkedin.com/in/sandip-k-k" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jlZ4SVlucRrhv2xupaf_vCkV1FQ8gClPmt_IHOpz_-CbmxtMas7gWf5u0e_03MxRu4o&usqp=CAU" alt="arpit-" height="35" width="35" /></a>
 <a href="https://instagram.com/sandipkushwaha20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sandip" height="35" width="30" /></a>
 <a href="https://www.codechef.com/users/sandipkushwaha" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sandipkushwaha" height="40" width="50" /></a>
 <!--<a href="https://codeforces.com/profile/adi_wav" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo54H6ouEbEfRIzdxCVVGTDsFn3sLytjsrKPTw9o8roMU1SNqBDDv5UKwqHaKr2eDoC0Q&usqp=CAU" alt="adi_wav" height="30" width="40" /></a>-->
@@ -63,5 +63,5 @@ Hey there!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
 
-[<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/sandip-kk/)
+[<img height="20" src="https://cdn.svgporn.com/logos/linkedin.svg" />](https://www.linkedin.com/in/sandip-k-k/)
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
