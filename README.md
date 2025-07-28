@@ -37,7 +37,7 @@ Hey there!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandip-k-k" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jlZ4SVlucRrhv2xupaf_vCkV1FQ8gClPmt_IHOpz_-CbmxtMas7gWf5u0e_03MxRu4o&usqp=CAU" alt="arpit-" height="35" width="35" /></a>
-<a href="https://instagram.com/sandipkushwaha20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sandip" height="35" width="30" /></a>
+<!-- <a href="https://instagram.com/sandipkushwaha20" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="Sandip" height="35" width="30" /></a> -->
 <a href="https://www.codechef.com/users/sandipkushwaha" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="sandipkushwaha" height="40" width="50" /></a>
 <!--<a href="https://codeforces.com/profile/adi_wav" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo54H6ouEbEfRIzdxCVVGTDsFn3sLytjsrKPTw9o8roMU1SNqBDDv5UKwqHaKr2eDoC0Q&usqp=CAU" alt="adi_wav" height="30" width="40" /></a>-->
 <a href="https://www.hackerrank.com/Sandipkushwaha21" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/231893793/cec60480-04a9-11eb-80c4-df7359d94047" alt="Sandip" height="45" width="40" /></a>
