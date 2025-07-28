@@ -12,7 +12,7 @@ Hey there!
 <!-- - 👯 I’m looking to collaborate on Competitive Coding [My Resume](https://arpitgupta.vercel.app/Arpit-Resume.pdf) -->
 
 - 💬 Always ready to learn!
-- 📫 How to reach me: sandipkushwaha2437@gmail.com or [![LinkedIn:Sandip Kushwaha](https://img.shields.io/badge/-SandipKushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-k-k/)](https://www.linkedin.com/in/sandip-k-k/)
+- 📫 How to reach me: [![LinkedIn:Sandip Kushwaha](https://img.shields.io/badge/-SandipKushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-k-k/)](https://www.linkedin.com/in/sandip-k-k/)
 - 😄 Pronouns: he/him 
 
 ​
